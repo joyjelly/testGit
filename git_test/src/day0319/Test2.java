@@ -3,8 +3,7 @@ package day0319;
 public class Test2 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+		System.out.println("집보내주세요");
 	}
 
 }
